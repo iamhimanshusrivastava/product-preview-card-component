@@ -13,7 +13,7 @@ export default function Home() {
 
       <main>
         <div className="h-screen flex justify-center items-center bg-cream">
-          <div className="p-4 w-[375px] sm:w-[600px] flex flex-col sm:grid sm:grid-cols-2">
+          <div className="px-4 sm:px-0 w-[375px] sm:w-[600px] flex flex-col sm:grid sm:grid-cols-2">
             {/* TODO: Use Next Image to make images optimize in <picture></picture> HTML element */}
             <div>
               <picture>
@@ -35,14 +35,14 @@ export default function Home() {
               <span className="uppercase tracking-[0.35em] text-xs text-darkGrayishBlue font-montserrat">
                 Perfume
               </span>
-              <h1 className="mt-2 sm:mt-4 text-[32px] leading-8 text-veryDarkBlue font-fraunces font-bold">
+              <h1 className="mt-2 sm:mt-6 text-[32px] sm:text-[33px] leading-8 text-veryDarkBlue font-fraunces font-bold">
                 Gabrielle Essence Eau De Parfum
               </h1>
-              <p className="mt-4 sm:mt-6 text-sm text-darkGrayishBlue font-montserrat">
+              <p className="mt-4 sm:mt-8 text-sm text-darkGrayishBlue font-montserrat">
                 A floral, solar and voluptuous interpretation composed by
                 Olivier Polge, Perfumer-Creator for the House of CHANEL.
               </p>
-              <div className="mt-6 flex items-center space-x-5">
+              <div className="mt-6 sm:mt-8 flex items-center space-x-5">
                 <p className="font-fraunces text-3xl text-darkCyan">$149.99</p>
                 <p className="font-montserrat text-xs text-darkGrayishBlue">
                   <s>$169.99</s>
