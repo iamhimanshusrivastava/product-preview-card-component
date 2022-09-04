@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshots
 
-| ![Product preview card component (Desktop View)](./product-preview-card-component-desktop-solution-screenshot.png) |
-| :----------------------------------------------------------------------------------------------------------------: |
-|                                   Product preview card component (Desktop View)                                    |
+| ![Product preview card component (Desktop View)](./public/img/screenshots/product-preview-card-component-desktop-solution-screenshot.png) |
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                               Product preview card component (Desktop View)                                               |
 
-| ![Product preview card component (Mobile View)](./product-preview-card-component-mobile-solution-screenshot.png) |
-| :--------------------------------------------------------------------------------------------------------------: |
-|                                   Product preview card component (Mobile View)                                   |
+| ![Product preview card component (Mobile View)](./public/img/screenshots/product-preview-card-component-mobile-solution-screenshot.png) |
+| :-------------------------------------------------------------------------------------------------------------------------------------: |
+|                                              Product preview card component (Mobile View)                                               |
 
 ### Links
 
