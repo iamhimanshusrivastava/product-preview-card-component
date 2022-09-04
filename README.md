@@ -25,7 +25,12 @@ Users should be able to:
 
 ### Screenshots
 
+| ![Product preview card component (Desktop View)](./product-preview-card-component-desktop-solution-screenshot.png) |
+| :----------------------------------------------------------------------------------------------------------------: |
+|                               <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>                                |
+
 ![Desktop View](./product-preview-card-component-desktop-solution-screenshot.png)
+:--:
 _Product preview card component (Desktop View)_
 
 ![Mobile View](./product-preview-card-component-mobile-solution-screenshot.png)
