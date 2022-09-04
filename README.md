@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./product-preview-card-component-desktop-solution-screenshot.png.jpg)
-![Mobile View](./product-preview-card-component-mobile-solution-screenshot.png.jpg)
+![Desktop View](./product-preview-card-component-desktop-solution-screenshot.png)
+![Mobile View](./product-preview-card-component-mobile-solution-screenshot.png)
 
 ### Links
 
@@ -37,12 +37,12 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- TailwindCSS - CSS Utility Framework
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
+- [TailwindCSS](https://tailwindcss.com) - CSS Utility Framework
 
 ### Useful resources
 
